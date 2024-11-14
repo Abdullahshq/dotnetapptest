@@ -33,3 +33,4 @@ C:\Users\tron\Desktop\app preview\dotnetapptest\bin\Debug\net8.0\publish\appsett
 C:\Users\tron\Desktop\app preview\dotnetapptest\bin\Debug\net8.0\publish\appsettings.json
 C:\Users\tron\Desktop\app preview\dotnetapptest\bin\Debug\net8.0\publish\dotnetapptest.deps.json
 C:\Users\tron\Desktop\app preview\dotnetapptest\bin\Debug\net8.0\publish\dotnetapptest.runtimeconfig.json
+C:\Users\tron\Desktop\app preview\dotnetapptest\obj\Debug\net8.0\dotnetapptest.sourcelink.json
