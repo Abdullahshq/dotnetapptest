@@ -1,0 +1,7 @@
+C:\Users\tron\Desktop\app preview\dotnetapptest\publish\dotnetapptest.exe
+C:\Users\tron\Desktop\app preview\dotnetapptest\publish\appsettings.Development.json
+C:\Users\tron\Desktop\app preview\dotnetapptest\publish\appsettings.json
+C:\Users\tron\Desktop\app preview\dotnetapptest\publish\dotnetapptest.dll
+C:\Users\tron\Desktop\app preview\dotnetapptest\publish\dotnetapptest.deps.json
+C:\Users\tron\Desktop\app preview\dotnetapptest\publish\dotnetapptest.runtimeconfig.json
+C:\Users\tron\Desktop\app preview\dotnetapptest\publish\dotnetapptest.pdb
